@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.unicog.numberrace</id>
+  <name>The Number Race</name>
+  <name xml:lang="fr">La Course aux Nombres</name>
+  <summary>Adaptive educational math game for children aged 4 to 8</summary>
+  <summary xml:lang="fr">Jeu éducatif adaptatif de mathématiques pour enfants de 4 à 8 ans</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0-only</project_license>
+  <description>
+    <p>
+      The Number Race is an adaptive educational game designed by the INSERM-CEA
+      Cognitive Neuroimaging Unit to help children aged 4 to 8 learn and practice
+      basic numerical and arithmetic concepts, and to support remediation of
+      dyscalculia.
+    </p>
+    <p xml:lang="fr">
+      La Course aux Nombres est un logiciel de jeu éducatif conçu par l'Unité
+      INSERM-CEA de Neuroimagerie Cognitive pour faire découvrir et pratiquer les
+      concepts numériques et arithmétiques de base aux enfants de 4 à 8 ans, et
+      aider à la remédiation de la dyscalculie.
+    </p>
+  </description>
+  <launchable type="desktop-id">numberrace.desktop</launchable>
+  <url type="homepage">http://thenumberrace.com</url>
+  <releases>
+    <release version="3.1.1" date="2017-11-12"/>
+  </releases>
+  <content_rating type="oars-1.1"/>
+</component>

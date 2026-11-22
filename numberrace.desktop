@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Name=The Number Race
+Name[fr]=La Course aux Nombres
+GenericName=Educational Math Game
+GenericName[fr]=Jeu éducatif de mathématiques
+Comment=Adaptive math game for children aged 4 to 8
+Comment[fr]=Jeu éducatif adaptatif de calcul et d'arithmétique pour enfants de 4 à 8 ans
+Exec=numberrace
+Icon=numberrace
+Terminal=false
+Categories=Game;Education;Math;
+StartupNotify=true
+StartupWMClass=org-unicog-numberrace-Game
+Keywords=math;arithmetic;numbers;education;children;calcul;nombres;
+Keywords[fr]=maths;arithmétique;nombres;éducation;enfants;calcul;dyscalculie;
+Actions=windowed;
+
+[Desktop Action windowed]
+Name=Launch in Windowed Mode
+Name[fr]=Lancer en mode fenêtré
+Exec=numberrace in-window

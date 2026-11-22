@@ -1,0 +1,14 @@
+# Build outputs and temporary RPM build tree
+rpmbuild/
+dist/
+*.rpm
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor / OS files
+*~
+*.swp
+.DS_Store
